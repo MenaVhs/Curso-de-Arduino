@@ -1,6 +1,6 @@
 //Práctica uno
 
-int ReadSerial = '0';
+int readSerial = '0';
 byte led1 = 2;
 byte led2 = 3;
 byte led3 = 4;
